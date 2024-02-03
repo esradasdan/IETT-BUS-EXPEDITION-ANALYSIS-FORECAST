@@ -1,4 +1,4 @@
-# IBB-Internship
+# Modeling the Required Expedition and Departure Time for the 75O (Otogar - Mecidiyeköy) Route Line
 
 This repository contains the daily number of trips and bus departure times that I optimized for the 75-O IETT bus line, which I worked on during my internship at Istanbul Metropolitan Municipality (IBB). The most appropriate bus schedule was created using daily passenger movement data from the stops on the route.
 
