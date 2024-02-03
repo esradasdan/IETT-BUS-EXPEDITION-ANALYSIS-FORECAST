@@ -12,14 +12,14 @@ The aim of the project is to find the three most suitable new schedules for the 
 
 The following topics were analyzed throughout the project process:
 
-1 - Passenger Profile
-2 - Distribution of Daily and Monthly 75-O Users
-3 - Density of Stops on the Route
-4 - Estimated Number of Bus Trips
+- Passenger Profile
+- Distribution of Daily and Monthly 75-O Users
+- Density of Stops on the Route
+- Estimated Number of Bus Trips
 
 Finally, Poission Distribution was used as a solution technique to optimally adjust the statistical distribution of passengers' boarding times for estimating the number and time of flights. As a result, the following actions were taken:Finally, Poission Distribution was used as a solution technique to optimally adjust the statistical distribution of passengers' boarding times for estimating the number and time of flights. As a result, the following actions were taken:
 
-5 - Bus Departure Time Estimation
-6 - Seasonal (Special Forecast for Busiest and Least Busy Seasons) Number of Trips Forecast
+- Bus Departure Time Estimation
+- Seasonal (Special Forecast for Busiest and Least Busy Seasons) Number of Trips Forecast
 
 You can find the details of these reviews in the code file and the report file prepared for the summary of the project. 
